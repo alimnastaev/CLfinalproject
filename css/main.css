@@ -9,7 +9,7 @@ body {
     min-height: 100vh;
 }
 
-/** Removes link styling. **/
+
 a {
     text-decoration: none;
 }
@@ -29,9 +29,6 @@ a {
     clear: both;
 }
 
-ul {
-  text-decoration: none;
-}
 
 img {
     max-width: 100%;
@@ -47,10 +44,12 @@ p {
     color: #999;
 }
 
+/*
 .menu {
     font-size: 13px;
     font-weight: bold;
 }
+*/
 
 
 
@@ -68,15 +67,8 @@ header {
 }
 
 h1 {
-/*
-  font-size: 1.75em;
-  font-weight: bold;
-  line-height: 0.8em;
-*/
   text-align: center;
 }
-
-
 
 /******************************
 CAROUSEL (a TITLE PAGE)
@@ -96,6 +88,19 @@ CAROUSEL (a TITLE PAGE)
 	left: 0;
 }
 
+
+
+
+
+/**********************************
+PAGE: ABOUT
+***********************************/
+
+.profile-photo {
+  display: block;
+  max-width: 250px;
+  margin: 25px auto;
+}
 
 
 /**********************************
@@ -134,16 +139,6 @@ PAGE: MEDIA
     color: #999;
 }
 
-/**********************************
-PAGE: ABOUT
-***********************************/
-
-.profile-photo {
-  display: block;
-  max-width: 250px;
-  margin: 25px auto;
-}
-
 
 /**********************************
 PAGE: DATES
@@ -154,15 +149,11 @@ PAGE: DATES
 box-sizing: border-box;
 }
 
-
-
 ul.main { 
   list-style: none;
   max-width: 95%;
   margin: 70px auto;
 }
-h3 {padding: 0; margin: 0;}
-
 
 .date {
   width: 17%;
@@ -181,7 +172,7 @@ h3 {padding: 0; margin: 0;}
 .events {
   float: left;
   width: 70%;
-  border-left: 1px solid #ccc;
+  border-left: 1px solid #999;
   margin-top: 15%;
   padding-top: 3%;
 }
@@ -210,7 +201,7 @@ h3 {padding: 0; margin: 0;}
   width: 100%;
   height: 100%;
   display: block;
-    text-align: center;
+  text-align: center;
 }
 
 .event-location {
@@ -221,27 +212,6 @@ h3 {padding: 0; margin: 0;}
 
 /*--------------*/
 
-@media all and (max-width: 641px) {
-    
-    .date {
-      width: 100%;
-      margin: 10px;
-    }
-  
-  .events {
-    border:none;
-    width: 100%;
-    margin-top: 0;
-  }
-  
-  .events-detail {
-    padding: 0;
-  }
-  
-  li.date p {
-    margin:0;
-  }
-}
 
 /**********************************
 PAGE: CONTACT
