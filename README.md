@@ -4,27 +4,27 @@ This is my Code Louisville Fall 2017 graduation project. The goal was to create 
 
 The project is my personal artistic website to present my music online.
 
-The website was build using “mobile first” approach. I did not use any frameworks (Bootstrap is the most popular) for that matter. Responsiveness was achieved by creating custom media queries at the certain breakpoints.
+1. The website was build using “mobile first” approach. I did not use any frameworks (Bootstrap is the most popular) for that matter. Responsiveness was achieved by creating custom media queries at the certain breakpoints.
 
-I created a sticky navigation bar with lines of CSS.
+2. I have created a sticky navigation bar with lines of CSS.
 
-Navigation is horizontal and sticky across all the media devices and/or browser sizes or screen resolutions.
+3. Navigation is horizontal and sticky across all the media devices and/or browser sizes or screen resolutions.
 
-I’ve implemented a “humburger” menu using CSS only for visitors who use smaller screens. It becomes appear only after a certain point when braking down a browser page and on mobile devices. Drop-down menu appears when the “humburger” icon is clicked on.
+4. I’ve implemented a “humburger” menu using CSS only for visitors who use smaller screens. It becomes appear only after a certain point when braking down a browser page and on mobile devices. Drop-down menu appears when the “humburger” icon is clicked on.
 
-All the active tabs are highlighted (on mobile devices as well) to help visitors easily navigate through the site.
+5. All the active tabs are highlighted (on mobile devices as well) to help visitors easily navigate through the site.
 
-There are “call to action” buttons on CONTACT PAGE. The purpose is to separate all the incoming emails/messages by a subject. All the buttons are had been disabled until custom email addresses will be created.
+6. There are “call to action” buttons on CONTACT PAGE. The purpose is to separate all the incoming emails/messages by a subject. All the buttons are had been disabled until custom email addresses will be created.
 
-“Image Carousel” on the TITLE PAGE was created without plugins with a custom jQuery code and it is fully responsive.  
+7. “Image Carousel” on the TITLE PAGE was created without plugins with a custom jQuery code and it is fully responsive.  
 
-MEDIA PAGE is an image gallery viewable as thumbnails or via a Lightbox. Later, I will use the same concept for the all video material.  
+8. MEDIA PAGE is an image gallery viewable as thumbnails or via a Lightbox. Later, I will use the same concept for the all video material.  
 
-The website footer contains copyright information along with the active social platform icons.
+9. The website footer contains copyright information along with the active social platform icons.
 
-Favourite icon or “favicon”. Check out this little picture along with the site’s name in browser tabs.  (Most people’s bookmarks/favorites list is a very cluttered place. Having yours stand out with a nice graphical reminder of your site beside it is a good way to get their attention again).
+10. Favourite icon or “favicon”. Check out this little picture along with the site’s name in browser tabs.  (Most people’s bookmarks/favorites list is a very cluttered place. Having yours stand out with a nice graphical reminder of your site beside it is a good way to get their attention again).
 
-Each page has the exact same design, including footer, just the content itself is different.
+11. Each page has the exact same design, including footer, just the content itself is different.
 
 To view this project simple run index.html
 
