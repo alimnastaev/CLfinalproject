@@ -1,6 +1,6 @@
 Code Louisville Fall 2017 Project.
 
-This is my Code Louisville Fall 2017 graduation project. The goal was to create a fully responsive website using the most popular front-end languages: HTML, CSS, JavaScript, JQuery, etc.
+This is my Code Louisville Front-End Fall 2017 graduation project. The goal was to create a fully responsive website using the most popular front-end languages: HTML, CSS, JavaScript, JQuery, etc.
 
 The project is my personal artistic website to present my music online.
 
