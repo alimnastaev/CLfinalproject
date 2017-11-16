@@ -1,4 +1,5 @@
 /* TITLE PAGE - carousel */
+
 $('#carousel img:gt(0)').hide();
 
 setInterval(function(){
@@ -8,4 +9,4 @@ setInterval(function(){
     .fadeTo(500, 1)
     .end()
     .appendTo('#carousel');
-}, 3000);   
+}, 3000);
